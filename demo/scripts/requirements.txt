@@ -95,7 +95,7 @@ PyYAML==6.0.3
 pyzmq==27.0.1
 referencing==0.36.2
 regex==2025.7.34
-requests==2.32.5
+requests==2.33.0
 rfc3339_validator==0.1.4
 rfc3986_validator==0.1.1
 rfc3987-syntax==1.1.0
