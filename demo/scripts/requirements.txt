@@ -58,7 +58,7 @@ jupyterlab_widgets==3.0.15
 lark==1.2.2
 MarkupSafe==3.0.3
 matplotlib-inline==0.1.7
-mistune==3.1.4
+mistune==3.3.0
 mypy_extensions==1.1.0
 narwhals==2.6.0
 nbclient==0.10.2
